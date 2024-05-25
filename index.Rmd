@@ -1,0 +1,15 @@
+---
+title: "Your Name"
+css: style.css
+output:
+  html_document:
+    includes:
+      in_header: header.html
+---
+<p> I'm a political science student at Texas A&M University! </p>
+
+<p align="center" style = "font-size:25px;"> Here's my <a href=mailto:nnray@tamu.edu>email <i class="glyphicon glyphicon-envelope"></i></a>. </p>
+
+<p> And here's where I go to school! </p>
+
+<p> <img src="bush.jpg" style="float:left;padding:10px;width:550px;height:450px;"> </p>

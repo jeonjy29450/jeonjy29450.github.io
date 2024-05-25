@@ -1,0 +1,11 @@
+name: "Website"
+output_dir: "."
+navbar:
+  title: "Your Name"
+  left:
+    - text: "Home"
+      icon: glyphicon-home
+      href: index.html
+    - text: "Research"
+      icon: glyphicon-pencil
+      href: research.html

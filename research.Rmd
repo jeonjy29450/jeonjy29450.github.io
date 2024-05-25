@@ -1,0 +1,9 @@
+---
+title: "Your Name"
+css: style.css
+output:
+  html_document:
+    includes:
+      in_header: header.html
+---
+<p> I do tons of research. </p>
